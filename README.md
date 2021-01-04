@@ -1,6 +1,6 @@
-# YB_Croco:Kit
+# StemLab
 
-Extension for Yahboom YB_Croco:Kit V2.0
+Extensão StemLab para micro:bit V2.0
 
 ## License
 
@@ -9,4 +9,3 @@ MIT
 ## Supported targets
 
 * for PXT/microbit
-(The metadata above is needed for package search.)
