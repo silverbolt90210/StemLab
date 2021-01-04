@@ -5,13 +5,13 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "LEDBit": "github:lzty634158/LED-Bit"
+        "LEDBit": "github:silverbolt90210/LED-Bit"
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/Croco-Kit-strings.json",
-        "_locales/zh-tw/Croco-Kit-strings.json"
+        "_locales/zh-cn/StemLab-strings.json",
+        "_locales/zh-tw/StemLab-strings.json"
     ],
     "testFiles": [
         "test.ts"
