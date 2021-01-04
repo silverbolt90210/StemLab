@@ -1,0 +1,21 @@
+{
+    "name": "StemLab",
+    "version": "2.0.0",
+    "description": "Extensao para Micro:bit StemLab V2.0.0",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "LEDBit": "github:lzty634158/LED-Bit"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Croco-Kit-strings.json",
+        "_locales/zh-tw/Croco-Kit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT"
+}
